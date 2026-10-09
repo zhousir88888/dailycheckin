@@ -1,4 +1,4 @@
 {
   "CHECK_LIST": ["smzdm"],
-  "SMZDM_COOKIE": "${{ secrets.SMZDM_COOKIE }}"
+  "SMZDM_COOKIE": ""
 }
