@@ -24,4 +24,4 @@ jobs:
       - name: Run Daily CheckIn
         env:
           SMZDM_COOKIE: ${{ secrets.SMZDM_COOKIE }}
-        run: python dailycheckin/main.py
+        run: python -m dailycheckin.main
